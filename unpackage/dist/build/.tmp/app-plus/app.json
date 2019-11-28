@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/myInfor/index",
+    "pages/home/register/register",
+    "pages/home/login/login"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": ""
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#2d54ff",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "iconPath": "/static/images/home.png",
+        "selectedIconPath": "/static/images/home-active.png",
+        "pagePath": "pages/home/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "/static/images/presonal.png",
+        "selectedIconPath": "/static/images/personalActive.png",
+        "pagePath": "pages/myInfor/index",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "UniAppCloudInsurance",
+  "compilerVersion": "2.3.3",
+  "usingComponents": {}
+}

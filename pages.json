@@ -1,0 +1,123 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+
+		{
+			"path": "pages/myInfor/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/home/register/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"app-plus": {
+					"titleNView": true
+				}
+			}
+		},
+		{
+			"path": "pages/home/login/login",
+			"style": {
+				"navigationBarTitleText": "",
+				// "navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/myInfor/myinfor",
+			"style": {
+				"backgroundColor":"#F9F9F9",
+				"navigationBarTitleText": "个人资料",
+				"app-plus": {
+					"titleNView": true
+				}
+			}
+		},
+		// {
+		// 	"path": "pages/common/city",
+		// 	"style": {
+		// 		"navigationBarTitleText": "选择城市",
+		// 		"app-plus": {
+		// 			"titleNView": true
+		// 		}
+		// 	}
+		// },
+		{
+			"path":"pages/quoteManagement/quoteInfo",
+			"style": {
+				"navigationBarTitleText": "车险报价",
+				"app-plus": {
+					"titleNView": true
+				}
+			}
+		},
+		{
+			"path":"pages/quoteManagement/vehicleInfo",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path":"pages/quoteManagement/insureScheme",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path":"pages/quoteManagement/quoteList",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": true
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": ""
+	},
+	"tabBar": {
+		// "custom":true,
+		"color": "#8a8a8a",
+		"selectedColor": "#2d54ff",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"iconPath": "/static/images/home.png",
+				"selectedIconPath": "/static/images/home-active.png",
+				"pagePath": "pages/home/index",
+				"text": "首页"
+			},
+			{
+				"iconPath": "/static/images/presonal.png",
+				"selectedIconPath": "/static/images/personalActive.png",
+				"pagePath": "pages/myInfor/index",
+				"text": "个人中心"
+			}
+		]
+	}
+}

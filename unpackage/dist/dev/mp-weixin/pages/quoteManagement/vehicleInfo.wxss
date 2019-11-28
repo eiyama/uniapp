@@ -1,0 +1,26 @@
+
+.quote-row.data-v-73f63097 {
+	height: 20px;
+	padding: 10px 4%;
+	font-size: 12px;
+	color: #999;
+	line-height: 30px;
+	background: #f9f9f9;
+}
+.uin-switch.data-v-73f63097 {
+	font-size: 12px;
+	margin-right: 6px;
+}
+.content.data-v-73f63097 {
+	margin-bottom: 50px;
+}
+.footerBtn.data-v-73f63097 {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 99;
+	height: 48px;
+	background: #FFFFFF;
+}
+

@@ -1,0 +1,26 @@
+
+.content_header {
+	padding-left: 30px;
+	padding-top: 50px;
+	padding-bottom: 130px;
+	background-color: #2D54FF;
+}
+.ico-head {
+  float: left;
+  width: 72px;
+  height: 72px;
+  background-color: #f0f0f0;
+  border-radius: 50%;
+}
+.content_header .head-info {
+  float: left;
+  margin-left: 14px;
+  color: #FFF;
+}
+.content_header .head-info ._h3 {
+  font-weight: bold;
+  font-size: 16px;
+  color: #FFF;
+}
+
+

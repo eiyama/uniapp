@@ -1,0 +1,21 @@
+
+.city.data-v-94b39ddc {
+	text-align: left;
+}
+.cityTitle.data-v-94b39ddc {
+	text-align: center;
+	border-bottom: 1px solid #EEEEEE;
+	padding-bottom: 10px;
+}
+.cityItem.data-v-94b39ddc {
+	color: #666666;
+	width: 95%;
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 1px solid #e8ecf1;
+	cursor: pointer;
+}
+.headerRight.data-v-94b39ddc {
+	float: right;
+}
+

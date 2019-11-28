@@ -1,0 +1,96 @@
+
+.salesmanBox.data-v-7bc8f84e {
+	background: #fff;
+	padding: 15px;
+	border-radius: 8px;
+	margin: 10px;
+}
+.saleItem.data-v-7bc8f84e {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.saleItem .itemLeft.data-v-7bc8f84e {
+	color: #999999;
+	font-size: 13px;
+}
+.saleItem .itemRight.data-v-7bc8f84e {
+	color: #333;
+	font-size: 13px;
+}
+.footerBtn.data-v-7bc8f84e{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 3;
+}
+/* 
+.my-head {
+  display: inline-block;
+  width: 54px;
+  height: 54px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+dialogs .title {
+  font-size: 14px;
+}
+
+.dialogs {
+  padding: 10px 20px;
+  font-size: 12px;
+}
+
+.diaContent {
+  padding: 0 0px;
+}
+
+.diaContent .imgcontent {
+  text-align: center
+}
+
+.diaContent .imgcontent img {
+  max-width: 130px;
+}
+
+.diaContent .tip {
+  padding: 20px 0;
+  color: #B1B9CE
+}
+
+.diaContent .tip span {
+  vertical-align: text-bottom;
+  margin-left: 5px
+}
+
+.diaContent .pos .pos-content {
+  padding: 0 20px;
+  margin-bottom: -10px;
+}
+
+.diaContent .pos .pos-content .tit {
+  padding-bottom: 10px;
+}
+
+.diaContent .pos .pos-content .tit span {
+  font-size: 20px
+}
+
+.btns-hao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btns-hao span {
+  flex: 1;
+  color: #357bfd;
+  line-height: 40px;
+}
+.btn-fixed{
+	background:#357bfd;
+} */
+

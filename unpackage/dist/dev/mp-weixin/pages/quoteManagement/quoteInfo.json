@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "车险报价",
+  "usingComponents": {
+    "vehicle-info": "/pages/quoteManagement/vehicleInfo",
+    "insure-scheme": "/pages/quoteManagement/insureScheme",
+    "quote-list": "/pages/quoteManagement/quoteList",
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control"
+  }
+}
